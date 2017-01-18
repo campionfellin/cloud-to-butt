@@ -1,8 +1,8 @@
 {
 	"manifest_version": 2,
-	"name": "Cloud To Butt",
+	"name": "Trump Facts",
 	"version": "1.0",
-	"description": "Replaces the text 'campionfellin' with 'my butt'.",
+	"description": "Replaces the text 'Trump' with 'facts about him'.",
 	"content_scripts": 
 	[
 		{
